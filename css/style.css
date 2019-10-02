@@ -1077,3 +1077,9 @@ h1, h2, h3, h4, h5,
 .text-primary {
   color: #FED72B!important;
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: #FED72B;
+  border-color: #FED72B;
+}
