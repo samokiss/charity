@@ -369,7 +369,9 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       z-index: 0;
       width: 100%;
-      background: rgba(205, 165, 88, 0.95); }
+      background: #FB6234;
+      opacity: 0.33;
+    }
   .bg-image > .container {
     position: relative;
     z-index: 1; }
