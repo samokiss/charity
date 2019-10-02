@@ -1085,3 +1085,12 @@ h1, h2, h3, h4, h5,
   background-color: #FED72B;
   border-color: #FED72B;
 }
+
+.number-style{
+  color: #FED72B;
+  font-size: 4rem;
+  position: relative;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  font-family: "Anton", sans-serif;
+}
