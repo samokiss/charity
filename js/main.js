@@ -300,10 +300,4 @@ jQuery(document).ready(function($) {
 
 	}
 	counter();
-
-	$( "#content-wrap" ).removeClass( "container" );
-	$( "#wpex-mobile-menu-toggle" ).remove();
-	$( ".single-content p" ).remove();
-	$( "html" ).css("font-size", "180%");
-
 });
