@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c3ce69-9f00-49c5-82a0-c69cccc30389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="317" column="48" lean-forward="true" selection-start-line="317" selection-start-column="48" selection-end-line="317" selection-end-column="48" />
+            <state relative-caret-position="271">
+              <caret line="327" column="18" lean-forward="true" selection-start-line="327" selection-start-column="18" selection-end-line="327" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -156,10 +155,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images_1" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images_1" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -192,12 +191,12 @@
       <workItem from="1570002643458" duration="11314000" />
       <workItem from="1570048578107" duration="1022000" />
       <workItem from="1570114243906" duration="5547000" />
-      <workItem from="1570357224766" duration="625000" />
+      <workItem from="1570357224766" duration="1221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16208000" />
+    <option name="totallyTimeSpent" value="16804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -347,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="317" column="48" lean-forward="true" selection-start-line="317" selection-start-column="48" selection-end-line="317" selection-end-column="48" />
+        <state relative-caret-position="271">
+          <caret line="327" column="18" lean-forward="true" selection-start-line="327" selection-start-column="18" selection-end-line="327" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
