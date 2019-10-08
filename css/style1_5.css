@@ -1744,3 +1744,16 @@ html.hidden
 #summary4 a:not(.collapsed):after {
     content: '- Lire moins';
 }
+
+.flaticon{
+    height: 75px;
+    padding-bottom: 10px;
+}
+
+#donate-section{
+    padding: 1rem 0;
+}
+
+#home-section > div.container > div > div:nth-child(1) > h3 {
+    color: blue;
+}
