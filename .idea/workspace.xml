@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0c3ce69-9f00-49c5-82a0-c69cccc30389" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style1_6.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style1_6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style1_7.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style1_7.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,29 +16,6 @@
     <execution>
       <executable />
     </execution>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>200</find>
-      <find>animated</find>
-      <find>home-section</find>
-      <find>site-wrap</find>
-      <find>font-gray-7</find>
-      <find>site-navbar</find>
-      <find>site-section</find>
-      <find>donate</find>
-      <find>sticky-wrapper</find>
-      <find>navbar</find>
-      <find>im</find>
-      <find>récolter</find>
-      <find>40</find>
-      <find>4</find>
-      <find>local</find>
-      <find>number-sty</find>
-      <find>block-testimony-1 figure img</find>
-      <find>nth-child(1)</find>
-      <find>nth</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,15 +36,15 @@
     <property name="settings.editor.selected.configurable" value="SensioLabs.Insight" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images_1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/images_1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -146,16 +123,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.html</url>
-          <line>343</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
