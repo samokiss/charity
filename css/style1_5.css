@@ -1754,6 +1754,15 @@ html.hidden
     padding: 1rem 0;
 }
 
-#home-section > div.container > div > div:nth-child(1) > h3 {
-    color: blue;
+.text-primary-b {
+    color: #094e7c;
 }
+
+.text-primary-c {
+    color: #fb6234;
+}
+
+.text-primary-d {
+    color: #40c2da;
+}
+

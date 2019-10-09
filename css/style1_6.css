@@ -1346,7 +1346,7 @@ h1, h2, h3, h4, h5,
 }
 
 .block-testimony-1 figure img {
-    max-width: 60px;
+    max-width: 60px !important;
 }
 
 .block-testimony-1 h3 {
@@ -1532,8 +1532,6 @@ h1, h2, h3, h4, h5,
     color: #fed72b;
     font-size: 4rem;
     position: relative;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
     font-family: "Anton", sans-serif;
 }
 
@@ -1641,6 +1639,9 @@ span.progress-bar.border-primary {
     font-size: 2.8rem !important;
 }
 
+#donate-section > div > div.row > div.col-lg-5.ml-auto.align-self-lg-center > p.small-text > a > i {
+    color: #0d0cb5;
+}
 #donate-section > div > div.row > div.col-lg-5.ml-auto.align-self-lg-center > p:nth-child(10) > a > i {
     color: #0d0cb5;
 }
@@ -1657,3 +1658,111 @@ html.hidden
 {
     display: none
 }
+
+#summary p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
+#summary2 p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary2 p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary2 a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary2 a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
+
+#summary3 p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary3 p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary3 a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary3 a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
+
+#summary4 p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary4 p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary4 a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary4 a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
+.flaticon{
+    height: 75px;
+    padding-bottom: 10px;
+}
+
+#donate-section{
+    padding: 1rem 0;
+}
+
+.text-primary-b {
+    color: #094e7c;
+}
+
+.text-primary-c {
+    color: #fb6234;
+}
+
+.text-primary-d {
+    color: #40c2da;
+}
+
