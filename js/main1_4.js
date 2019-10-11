@@ -311,7 +311,7 @@ jQuery(document).ready(function ($) {
     cleanPage();
 
     $(".valid-paypal").on('click', function () {
-        $("#paypal > input[type=image]:nth-child(3)").click();
+        $("#paypal").submit();
     })
 
 });
