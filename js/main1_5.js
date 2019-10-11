@@ -299,6 +299,7 @@ jQuery(document).ready(function ($) {
         $("#content-wrap").removeClass("container");
         $(".owl-prev").addClass("text-center");
         $(".owl-next").addClass("text-center");
+        $("br").remove();
         $("#wpex-mobile-menu-navbar").remove();
         $(".menu-search").remove();
         $("#branding").remove();
