@@ -313,9 +313,17 @@ jQuery(document).ready(function ($) {
         $(document).on('load', function () {
             $("br").remove();
         });
+        $(".iban").hide();
+        $(".show-iban").on('click', function () {
+            if ($(".iban").is(":hidden")) {
+                $(".iban").show();
+            } else {
+                $(".iban").hide();
+            }
+        })
+
     }
     cleanPage();
-
 
 
 });
