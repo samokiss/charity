@@ -1754,6 +1754,48 @@ html.hidden
     content: '- Lire moins';
 }
 
+#summary5 p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary5 p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary5 a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary5 a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
+#summary6 p.collapse:not(.show) {
+    height: 150px !important;
+    overflow: hidden;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+#summary6 p.collapsing {
+    min-height: 150px !important;
+}
+
+#summary6 a.collapsed:after  {
+    content: '+ Lire plus';
+}
+
+#summary6 a:not(.collapsed):after {
+    content: '- Lire moins';
+}
+
 .flaticon{
     height: 75px!important;
     padding-bottom: 10px!important;
